@@ -77,3 +77,5 @@ jobs:
         with:
           path: qtbase/src/plugins/sqldrivers/plugins/sqldrivers/*qsqlmysql.${{ matrix.os.extension }}
           name: mysqlplugin-${{ matrix.os.name }}-Qt${{ matrix.qt.name }}
+
+#teste
